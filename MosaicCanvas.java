@@ -248,7 +248,7 @@ public class MosaicCanvas extends Canvas {
         g.strokeLine(x+1.5,y+height-0.5,x+width-0.5,y+height-0.5);
     }
     
-    /**
+    /*
      * */
     
 
