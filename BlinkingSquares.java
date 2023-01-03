@@ -8,7 +8,7 @@ public class BlinkingSquares {
 
     /**
      * The main program creates the window, fills it with random colors,
-     * and then moves the disturbance in a random walk around the window
+     * and then moves the disturbance in a random order around the window
      * as long as the window is open.
      */
     public static void main(String[] args) {
